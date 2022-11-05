@@ -105,12 +105,12 @@ theme: white
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/wushuangerya/site.git
-  branch: main
-  token: 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
-  message: Site updated
-  name: wushuangerya
-  email: jingb17498384@gmail.com
-  extend_dirs: 
-  ignore_hidden: false # default is true
-  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
+  repo: https://wushuangerya.github.io/wushuangerya.github.io
+  # branch: main
+  # token: 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
+  # message: Site updated
+  # name: wushuangerya
+  # email: jingb17498384@gmail.com
+  # extend_dirs: 
+  # ignore_hidden: false # default is true
+  # ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
